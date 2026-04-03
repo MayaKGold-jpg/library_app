@@ -22,3 +22,5 @@ This Rust program simulates a simple library system. It allows you to:
 
 ## Example Output
 The program prints the list of books, checks out one book, and then prints the updated list.
+
+(I hope this helps!)
